@@ -21,7 +21,7 @@ include '../_contributor.inc.php';
 	<li><a href="https://www.fdsn.org/networks/detail/N4/" target="_blank">Central and Eastern US Network (N4)</a></li>
 	<li><a href="https://www.fdsn.org/networks/detail/NQ/" target="_blank">NetQuakes (NQ)</a></li>
 	<li><a href="https://www.fdsn.org/networks/detail/MX/" target="_blank">Mexican National Seismic Network (MX)</a></li>
-  <li><a href="https://www.fdsn.org/networks/detail/OK/" target="_blank">Oklahoma Geological Survey (OK)</a></li>	
+  <li><a href="https://www.fdsn.org/networks/detail/OK/" target="_blank">Oklahoma Geological Survey (OK)</a></li>
 	<li><a href="https://www.fdsn.org/networks/detail/SC/" target="_blank">New Mexico Tech Seismic Network (SC)</a></li>
 	<li><a href="https://www.fdsn.org/networks/detail/TA/" target="_blank">USArray Transportable Array (TA)</a></li>
 	<li><a href="https://www.fdsn.org/networks/detail/US/" target="_blank">United States National Seismic Network (US)</a></li>
@@ -33,7 +33,7 @@ include '../_contributor.inc.php';
 
 <h2 id="mission">Mission</h2>
 <p>
-TexNet is an independent scientific body that measures, analyzes, and distributes earthquake data and objective information to benefit the State of Texas.
+  TexNet is an independent scientific body that measures, analyzes, and distributes earthquake data and objective information to benefit the State of Texas.
 </p>
 
 <h2 id="extent">Extent</h2>
@@ -55,5 +55,5 @@ TexNet is an independent scientific body that measures, analyzes, and distribute
 
 <h3 id="contributors">Contributors</h3>
 <ul>
-<li><a href="../../catalog/tx/">TX (Catalog)</a></li>
+  <li><a href="../../catalog/tx/">TX (Catalog)</a></li>
 </ul>
